@@ -1,0 +1,10 @@
+body{
+    background-color: turquoise;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+img{
+    margin: 0 10px;
+}
